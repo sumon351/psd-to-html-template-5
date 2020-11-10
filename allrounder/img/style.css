@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0;
+    margin: 0;
+
+}
+.clear-div{
+    clear: both;
+}
+/* input{
+    background-color: #e1e1e1;
+    border-radius: 10px;
+} */
+
+.hr-style{
+    border: 1px solid white;
+    transform: rotate(90deg);
+    width: 40px;
+   
+}
+ .banner-container{
+     background-image: url("banner.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100vh;
+ }
+ #card-section{
+     padding: 20px 0px;
+ }
+.card{
+    background-color: #f0f0f0;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+footer{
+    background-color: black;
+    padding: 20px 0px;
+    color: white;
+}
+
+
+
